@@ -1,0 +1,3 @@
+(how to run source)
+(programs needed to be installed)
+(how to install programs -- can be links to official documents)
