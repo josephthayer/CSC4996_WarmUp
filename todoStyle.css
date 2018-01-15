@@ -1,0 +1,26 @@
+body {
+    background-color: #e6ffff;
+	padding:20px;
+	text-align:center;
+	font-family: "Arial", sans-serif;
+}
+
+a:link {
+    color: black;
+	font-weight: bold;
+}
+
+
+a:visited {
+    color: #8585ad;
+}
+
+
+a:hover {
+    color: blue;
+}
+
+
+a:active {
+    color: red;
+}
